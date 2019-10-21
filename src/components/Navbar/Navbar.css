@@ -1,0 +1,30 @@
+.navbar {
+    height: 140px;
+    text-decoration: none;
+    font-weight: 600;
+    background-color: black;
+}
+
+nav .navbar-nav li a, .navbar-brand, #pn {
+    color: white !important;
+    margin: 5px;
+}
+#top {
+    height: 70px;
+}
+
+button {
+    color: white;
+    background-color: black;
+    border: solid 2px white;
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+}
+#content {
+  float: right;
+}
+#pn :hover {
+    text-decoration: underline;
+    text-decoration-color: white;
+}
